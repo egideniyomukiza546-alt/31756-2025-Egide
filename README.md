@@ -6,7 +6,7 @@
 - **Student Name:** NIYOMUKIZA Egide  
 - **Student ID:** 31756/2025  
 - **Group:** One  
-- **Assignment Date:** 19 June 2026  
+- **Assignment Date:** 29 June 2026  
 
 ---
 
@@ -477,3 +477,18 @@ WHERE patient_count > 2
 ORDER BY cost_rank;
 
 SET ECHO OFF
+```
+## References
+
+1. Oracle 21c SQL Language Reference
+2. Course Materials - DPR400210: Database Programming
+3. Oracle Live SQL Documentation
+4. SQL*Plus User's Guide
+
+   ## Academic Integrity Statement
+
+I hereby declare that this assignment is my own original work. All sources used have been properly cited, and I have not copied or collaborated with others without permission.
+
+**Signature:** NIYOMUKIZA Egide
+**Date:** 29 June 2026
+
