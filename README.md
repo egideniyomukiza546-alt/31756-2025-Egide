@@ -478,6 +478,28 @@ ORDER BY cost_rank;
 
 SET ECHO OFF
 ```
+##Descriptive Analysis (What Happened?)
+20 admissions, $143,000 revenue
+
+Cardiology highest revenue ($53,200)
+
+April busiest month (5 admissions, $56,500)
+
+9/10 patients have multiple visits
+
+##Diagnostic Analysis (Why Did It Happen?)
+Cardiology: complex heart surgeries
+
+Orthopedics: post-surgery therapy (7.75 days stay)
+
+Pediatrics: non-surgical cases (most efficient)
+
+Mary Uwimana: chronic condition (3 visits)
+
+##Prescriptive Analysis (What Actions Should Be Taken?)
+8 recommendations with priorities and timelines
+
+Expected annual savings: $20,000 - $30,000
 ## References
 
 1. Oracle 21c SQL Language Reference
